@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HogeFunction", "HogeFunction\HogeFunction.csproj", "{CFE1AAC3-1B3E-4CD5-A0EB-C62EC1E31882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE1AAC3-1B3E-4CD5-A0EB-C62EC1E31882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE1AAC3-1B3E-4CD5-A0EB-C62EC1E31882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE1AAC3-1B3E-4CD5-A0EB-C62EC1E31882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE1AAC3-1B3E-4CD5-A0EB-C62EC1E31882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDABCB4-CC37-46A7-B464-1AEF982C3198}
+	EndGlobalSection
+EndGlobal
